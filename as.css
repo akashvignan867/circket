@@ -1,0 +1,15 @@
+akash{
+    background-color: antiquewhite;
+}
+input[type=text],input[type=password]{
+    width: 100%;
+    display: inline-block;
+    padding: 15px;
+    margin: 5px 0px 22px 0px;
+}
+.reg{
+    width: 100%;
+    padding: 22px;
+    color: white;
+    background-color: green;
+}
